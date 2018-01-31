@@ -136,9 +136,9 @@ Una vez que el usuario realiza su registro o  inicia sesión se le envía a la v
 
 ## Producto Final
 
-![Vista de inicio](documents/pl.png)
+![Vista de inicio](documents/start_view_product.png)
 
-![Acerca de...](documents/pl.png)
+![Acerca de...](documents/about_view_product.png)
 
 ![Tablero](documents/pl.png)
 
