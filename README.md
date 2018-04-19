@@ -7,7 +7,7 @@
 
 Daniela Castillo Sánchez, Ana Laura Sánchez Tamayo
 
-*Tonalá #30*
+*Tonalá No.30*
 
 *Cuahutemoc, CDMX*
 
